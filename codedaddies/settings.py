@@ -30,7 +30,7 @@ SECRET_KEY = '+oqu=a&^ns$j&&%&x_r)$b+u509#7x$q#xndb2$6-y6bilfl7%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['eduwebscrap.herokuapp.com']
+ALLOWED_HOSTS = ['craiglistapp.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
